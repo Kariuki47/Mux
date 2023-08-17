@@ -38,7 +38,7 @@ This template deploys a base ready-to-use Gorilla Mux app.
 
         `/api/v1/temperature`: Simple mock api endpoint.
 
-        `/api/v1/weather`: Just another mock api endpoint.
+        `/api/v1/forecast/3day`: Just another mock api endpoint, but with a path parameter.
 
 ## How to use
 
